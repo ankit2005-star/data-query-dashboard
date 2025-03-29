@@ -3,7 +3,8 @@
 Hey there! I’m so excited to share my **Gen AI Analytics Dashboard** with you! I built this project for the **Internshala Frontend Engineering Intern Challenge**, and I’ve poured my heart into making it something you’ll love. This dashboard lets you ask business questions in simple English, keeps track of your past queries, and shows the results in a neat bar chart. It’s user-friendly, looks great on any device, and has some fun animations to make the experience even better. Let’s dive in! 😊
 
 ## Live Demo
-[Live URL](https://data-query-dashboard.vercel.app)  
+[Live URL](https://data-query-dashboard-beta.vercel.app/ ) 
+ 
 (I’ll update this link once I deploy the project on Vercel – stay tuned!)
 
 ## What This Dashboard Does
